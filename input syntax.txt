@@ -1,0 +1,3 @@
+.name = taskname
+.due = YYYY MM DD HH MM
+#task
